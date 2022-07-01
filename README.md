@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AryenRawat
 - 👀 I’m interested in Software dev.
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning Web Dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me by mails
 
